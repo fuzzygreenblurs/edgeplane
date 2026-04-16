@@ -1,0 +1,3 @@
+[submodule "vendor/microservices-demo"]
+	path = vendor/microservices-demo
+	url = git@github.com:fuzzygreenblurs/microservices-demo.git
